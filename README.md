@@ -6,6 +6,8 @@ Read more about rules of checkers game you could by passing to the folowing link
 In this game one player could play against another player, and could play alone against AI (thery simple AI implementation has been made).
 On the picture below you can see the screenshot of the game.
 
+![alt text](Screenshot/Screenshot.png "Checkers game screenshot.")
+
 
 ### Prerequisites
 
